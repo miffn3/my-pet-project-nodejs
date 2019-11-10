@@ -1,0 +1,15 @@
+{
+  "name": "mynodeproject-data",
+  "version": "1.0.0",
+  "description": "learning to work with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "miffn3",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0"
+  }
+}
